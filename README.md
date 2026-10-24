@@ -146,8 +146,8 @@ The private key is stored at `~/Library/Application Support/AutoClicker/issuer-e
 - The app consumes a full CPU core at very low intervals and may cause noticeable heat and battery drain.
 
 ## Author
-Maxmax67 (Max Qiu)
-Ian-Yanziqing (Ian Yan)
+- Maxmax67 (Max Qiu)
+- Ian-Yanziqing (Ian Yan)
 
 ## License
 
