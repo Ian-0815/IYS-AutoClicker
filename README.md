@@ -145,6 +145,12 @@ The private key is stored at `~/Library/Application Support/AutoClicker/issuer-e
 - Point coordinates are absolute screen coordinates. Changing displays, resolution, or scaling may shift them; capture the points again.
 - The app consumes a full CPU core at very low intervals and may cause noticeable heat and battery drain.
 
+## Author
+git add README.md
+git commit -m "Add app authorship credit" \
+  -m "Co-authored-by: maxmax67 <maxtt.q@icloud.com>"
+git push
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
