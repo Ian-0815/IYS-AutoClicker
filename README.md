@@ -146,10 +146,8 @@ The private key is stored at `~/Library/Application Support/AutoClicker/issuer-e
 - The app consumes a full CPU core at very low intervals and may cause noticeable heat and battery drain.
 
 ## Author
-git add README.md
-git commit -m "Add app authorship credit" \
-  -m "Co-authored-by: maxmax67 <maxtt.q@icloud.com>"
-git push
+Maxmax67 (Max Qiu)
+Ian-Yanziqing (Ian Yan)
 
 ## License
 
